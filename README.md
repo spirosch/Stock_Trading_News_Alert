@@ -28,4 +28,5 @@ https://www.twilio.com/
 and create a free account so you can grab your free Twilio_SID and Twilio Auth Token to send SMS to your preferred number.
 
 Final result:
+
 ![photo_2022-09-13_19-09-27](https://user-images.githubusercontent.com/104036788/189952375-95ffade3-60e3-4cbd-993b-e68599e9e160.jpg)
